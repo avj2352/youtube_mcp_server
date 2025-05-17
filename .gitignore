@@ -10,6 +10,8 @@ wheels/
 .venv
 
 # ignore folders
+.idea/
+.vscode/
 __pycache__
 
 # ignore files
