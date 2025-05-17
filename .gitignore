@@ -17,3 +17,4 @@ __pycache__
 # ignore files
 .env
 DS_Store
+uv.lock
