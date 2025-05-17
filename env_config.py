@@ -12,7 +12,7 @@ def _get_app_version():
 
 # get app port number
 def _get_app_port_number():
-    return os.environ.get("APP_PORT") or 8000
+    return os.environ.get("APP_PORT") or 8080
 
 # get youtube api key
 def _get_youtube_api_key():

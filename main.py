@@ -58,4 +58,4 @@ async def query_youtube_video_by_topic(topic: str):
         
 # Run the application
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=int(APP_PORT))
+    app.run(host="127.0.0.1", port=int(APP_PORT))
