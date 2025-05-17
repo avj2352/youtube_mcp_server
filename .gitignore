@@ -18,3 +18,4 @@ __pycache__
 .env
 DS_Store
 uv.lock
+fly.toml
