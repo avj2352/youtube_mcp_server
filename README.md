@@ -2,6 +2,8 @@
 
 MCP server to query youtube videos by topic / video title
 
+![mcp server in action](design/mcp_vscode_screenshot.jpg)
+
 ## How to Setup
 
 You need the following env variables
